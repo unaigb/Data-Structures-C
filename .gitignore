@@ -1,0 +1,11 @@
+# Compilado
+*.o
+/abstract-data-types/pruebaInsercion
+/secondary-memory/ejercicio1y2
+
+# Datos de entrada y ficheros generados (ver README)
+*.dat
+*.hash
+*.idx
+
+.vscode/
