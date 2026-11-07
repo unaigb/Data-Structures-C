@@ -79,11 +79,12 @@ Data-Structures-C/
 │   ├── pruebaInsercion.c             # Mide tiempos y contadores
 │   ├── resultados.txt                # Muestra de mediciones
 │   └── makefile
-└── secondary-memory/
-    ├── dispersion.h · dispersion.c   # Organización directa con cubos y desborde
-    ├── indice.h · indice.c           # Índice y búsqueda binaria
-    ├── prueba.c                      # Menú de pruebas
-    └── makefile
+├── secondary-memory/
+│   ├── dispersion.h · dispersion.c   # Organización directa con cubos y desborde
+│   ├── indice.h · indice.c           # Índice y búsqueda binaria
+│   ├── prueba.c                      # Menú de pruebas
+│   └── makefile
+└── docs/Memoria-TAD.pdf              # Memoria de la parte 1 (con los datos personales tapados)
 ```
 
 ---
